@@ -1,0 +1,83 @@
+
+	body{
+	width: 960px;
+	border: 2px solid black;
+/*	padding: 5px 5px 5px 5px;*/
+	}
+
+	#spoljnja-sekcija{
+/*	width: 900px;*/
+/*	border: 1px solid green;*/
+/*	padding: 5px;*/
+	background-color: #0f03;
+	}
+
+	#spoljni-header{
+	high: 2em;
+	border-bottom: 1px solid red;
+	padding: 2px;
+	background-color: #ccc;
+	font-style: italic;
+	}
+
+	nav{
+/*	display: inline-block;*/
+	float: left;
+	width: 200px;
+/*	border: 1px solid blue;*/
+	vertical-align: top;
+	line-height: 4em;
+	padding: 10px 10px 10px 10px;
+	box-sizing: border-box;
+	text-decoration: none;
+	}
+
+ 	#unutrasnja-sekcija{
+/*	display: inline-block;*/
+	float: left;
+	width: 760px;
+	border-left: 1px solid red;
+	padding: 10px 10px 10px 10px;
+	box-sizing: border-box;
+	background-color: #f004;
+	font-family: serif;
+	}
+	h1{
+	color: #e45;
+	font-size: 1.5em;
+	}
+	footer{
+	clear: both;
+	}
+	table{
+	border-collapse: collapse;
+	margin: 0 auto:		
+	}
+	
+	th,td{
+	border: solid 1px gray;
+	padding: 10px;
+	}
+	
+	#div_table{
+	font-family: sans-serif;
+	font-size: 0.8em;
+	}
+	#naslov-tabele{
+		color: white;
+		background-color: #1f32;
+		font-size: 1.2em;
+	}
+	#Place{
+		width: 70px;
+	}
+	#Date{
+		width:80px;
+	}
+	.udesno{
+		text-align: right;
+	}
+	.centar{
+		text-align: center;
+	}
+	
